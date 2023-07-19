@@ -1,0 +1,898 @@
+{
+    "results": [
+        {
+            "blocks_url": "https://satu.icei.ac.id/api/courses/v2/blocks/?course_id=course-v1%3ABINUSx%2BCOMP6616001%2B23.11",
+            "effort": "6:00",
+            "end": "2025-06-30T23:59:00Z",
+            "enrollment_start": "2022-12-01T00:00:00Z",
+            "enrollment_end": "2025-06-30T23:59:00Z",
+            "id": "course-v1:BINUSx+COMP6616001+23.11",
+            "media": {
+                "banner_image": {
+                    "uri": "/asset-v1:BINUSx+COMP6616001+23.11+type@asset+block@images_course_image.jpg",
+                    "uri_absolute": "https://satu.icei.ac.id/asset-v1:BINUSx+COMP6616001+23.11+type@asset+block@images_course_image.jpg"
+                },
+                "course_image": {
+                    "uri": "/asset-v1:BINUSx+COMP6616001+23.11+type@asset+block@Dasar_pemograman_web_untuk_front_end.jpg"
+                },
+                "course_video": {
+                    "uri": "http://www.youtube.com/watch?v=NeaTTgDCBHg"
+                },
+                "image": {
+                    "raw": "https://satu.icei.ac.id/asset-v1:BINUSx+COMP6616001+23.11+type@asset+block@Dasar_pemograman_web_untuk_front_end.jpg",
+                    "small": "https://satu.icei.ac.id/asset-v1:BINUSx+COMP6616001+23.11+type@asset+block@Dasar_pemograman_web_untuk_front_end.jpg",
+                    "large": "https://satu.icei.ac.id/asset-v1:BINUSx+COMP6616001+23.11+type@asset+block@Dasar_pemograman_web_untuk_front_end.jpg"
+                }
+            },
+            "name": "Dasar Pemrograman Web untuk Front-end",
+            "number": "COMP6616001",
+            "org": "BINUSx",
+            "short_description": "Mata kuliah ini menjelaskan konsep pemrograman aplikasi web dan seluler menggunakan Bootstrap, React dan React Native. Bootstrap adalah pustaka kerangka kerja CSS untuk mengembangkan aplikasi ujung depan untuk situs web. react adalah pustaka JavaScript dan React Native adalah antarmuka kerangka kerja untuk pengembangan seluler.",
+            "start": "2023-01-01T00:00:00Z",
+            "start_display": "Feb 13, 2023",
+            "start_type": "string",
+            "pacing": "self",
+            "mobile_available": false,
+            "hidden": false,
+            "invitation_only": true,
+            "course_id": "course-v1:BINUSx+COMP6616001+23.11"
+        },
+        {
+            "blocks_url": "https://satu.icei.ac.id/api/courses/v2/blocks/?course_id=course-v1%3APRADITAx%2BPRx.IF18%2BPR_2023_1",
+            "effort": "02:30 per minggu",
+            "end": "2025-06-30T00:00:00Z",
+            "enrollment_start": "2023-01-01T00:00:00Z",
+            "enrollment_end": "2025-06-29T00:00:00Z",
+            "id": "course-v1:PRADITAx+PRx.IF18+PR_2023_1",
+            "media": {
+                "banner_image": {
+                    "uri": "/asset-v1:PRADITAx+PRx.IF18+PR_2023_1+type@asset+block@images_course_image.jpg",
+                    "uri_absolute": "https://satu.icei.ac.id/asset-v1:PRADITAx+PRx.IF18+PR_2023_1+type@asset+block@images_course_image.jpg"
+                },
+                "course_image": {
+                    "uri": "/asset-v1:PRADITAx+PRx.IF18+PR_2023_1+type@asset+block@11.jpg"
+                },
+                "course_video": {
+                    "uri": null
+                },
+                "image": {
+                    "raw": "https://satu.icei.ac.id/asset-v1:PRADITAx+PRx.IF18+PR_2023_1+type@asset+block@11.jpg",
+                    "small": "https://satu.icei.ac.id/asset-v1:PRADITAx+PRx.IF18+PR_2023_1+type@asset+block@11.jpg",
+                    "large": "https://satu.icei.ac.id/asset-v1:PRADITAx+PRx.IF18+PR_2023_1+type@asset+block@11.jpg"
+                }
+            },
+            "name": "Design Thinking",
+            "number": "PRx.IF18",
+            "org": "PRADITAx",
+            "short_description": "Design Thinking adalah proses berulang di mana kita berusaha untuk memahami pengguna, menantang asumsi, dan mendefinisikan kembali masalah dalam upaya mengidentifikasi strategi dan solusi alternatif yang mungkin tidak langsung terlihat dengan tingkat pemahaman awal. Pada saat yang sama, Design Thinking menyediakan pendekatan berbasis solusi untuk memecahkan masalah. Ini adalah cara berpikir dan bekerja serta kumpulan metode langsung.",
+            "start": "2023-01-06T00:00:00Z",
+            "start_display": "Feb 6, 2022",
+            "start_type": "string",
+            "pacing": "self",
+            "mobile_available": false,
+            "hidden": false,
+            "invitation_only": false,
+            "course_id": "course-v1:PRADITAx+PRx.IF18+PR_2023_1"
+        },
+        {
+            "blocks_url": "https://satu.icei.ac.id/api/courses/v2/blocks/?course_id=course-v1%3ATELUx%2BFAH2B3%2B2023_1",
+            "effort": "02:59",
+            "end": "2025-06-30T00:00:00Z",
+            "enrollment_start": "2022-12-01T00:00:00Z",
+            "enrollment_end": "2025-06-30T00:00:00Z",
+            "id": "course-v1:TELUx+FAH2B3+2023_1",
+            "media": {
+                "banner_image": {
+                    "uri": "/asset-v1:TELUx+FAH2B3+2023_1+type@asset+block@images_course_image.jpg",
+                    "uri_absolute": "https://satu.icei.ac.id/asset-v1:TELUx+FAH2B3+2023_1+type@asset+block@images_course_image.jpg"
+                },
+                "course_image": {
+                    "uri": "/asset-v1:TELUx+FAH2B3+2023_1+type@asset+block@ICE_FOTOGRAFI_I.jpg"
+                },
+                "course_video": {
+                    "uri": null
+                },
+                "image": {
+                    "raw": "https://satu.icei.ac.id/asset-v1:TELUx+FAH2B3+2023_1+type@asset+block@ICE_FOTOGRAFI_I.jpg",
+                    "small": "https://satu.icei.ac.id/asset-v1:TELUx+FAH2B3+2023_1+type@asset+block@ICE_FOTOGRAFI_I.jpg",
+                    "large": "https://satu.icei.ac.id/asset-v1:TELUx+FAH2B3+2023_1+type@asset+block@ICE_FOTOGRAFI_I.jpg"
+                }
+            },
+            "name": "Fotografi I",
+            "number": "FAH2B3/041057702004",
+            "org": "TELUx",
+            "short_description": "Matakuliah ini mempersiapkan mahasiswa terhadap kebutuhan-kebutuhan yang perlu dipersiapkan pada Kerja Praktek/Profesional baik saat masih menjadi mahasiswa maupun setelah lulus. Mahasiswa diharapkan telah memiliki pengetahuan yang mencukupi untuk diolah di matakuliah ini. Fotografi 1 adalah mata kuliah kumpulan karya yang dishowcase dalam bentuk digital maupun fisik. Selain portofolio tersebut mahasiswa juga diharapkan memiliki material-material untuk self-branding, seperti kartu nama, Curiculum Vitae, dan lain-lain. Mahasiswa juga diberi bekal untuk komunikasi self-branding, dimana terdapat materi terkait sikap, attitude, dan cara berpenampilan yang sesuai secara profesional.",
+            "start": "2023-01-01T00:00:00Z",
+            "start_display": "Feb 13, 2023",
+            "start_type": "string",
+            "pacing": "self",
+            "mobile_available": false,
+            "hidden": false,
+            "invitation_only": false,
+            "course_id": "course-v1:TELUx+FAH2B3+2023_1"
+        },
+        {
+            "blocks_url": "https://satu.icei.ac.id/api/courses/v2/blocks/?course_id=course-v1%3AUPHx%2BBMC_XT_2022%2B2022_2",
+            "effort": "8 weeks, @ 120 min/ week  ",
+            "end": "2024-12-31T00:00:00Z",
+            "enrollment_start": "2022-06-27T00:00:00Z",
+            "enrollment_end": "2024-11-01T00:00:00Z",
+            "id": "course-v1:UPHx+BMC_XT_2022+2022_2",
+            "media": {
+                "banner_image": {
+                    "uri": "/asset-v1:UPHx+BMC_XT_2022+2022_2+type@asset+block@images_course_image.jpg",
+                    "uri_absolute": "https://satu.icei.ac.id/asset-v1:UPHx+BMC_XT_2022+2022_2+type@asset+block@images_course_image.jpg"
+                },
+                "course_image": {
+                    "uri": "/asset-v1:UPHx+BMC_XT_2022+2022_2+type@asset+block@Untitled-2-13.jpg"
+                },
+                "course_video": {
+                    "uri": null
+                },
+                "image": {
+                    "raw": "https://satu.icei.ac.id/asset-v1:UPHx+BMC_XT_2022+2022_2+type@asset+block@Untitled-2-13.jpg",
+                    "small": "https://satu.icei.ac.id/asset-v1:UPHx+BMC_XT_2022+2022_2+type@asset+block@Untitled-2-13.jpg",
+                    "large": "https://satu.icei.ac.id/asset-v1:UPHx+BMC_XT_2022+2022_2+type@asset+block@Untitled-2-13.jpg"
+                }
+            },
+            "name": "A Practical Introduction to Business Model Canvas",
+            "number": "BMC_XT_2022",
+            "org": "UPHx",
+            "short_description": "In this short module, students will be introduced to the famous Alex Osterwalder's business model case that has been widely used to depict any innovate value proposition, business core strategy, practical operations, and profitability. The course module allows students to jump directly to the practical use of the main 9 building blocks of business model canvas useful for any aspiring entrepreneurs. No prior skills needed. Join this easy-to-follow practical introduction to business model canvas!",
+            "start": "2022-07-06T00:00:00Z",
+            "start_display": "July 6, 2022",
+            "start_type": "timestamp",
+            "pacing": "self",
+            "mobile_available": false,
+            "hidden": false,
+            "invitation_only": true,
+            "course_id": "course-v1:UPHx+BMC_XT_2022+2022_2"
+        },
+        {
+            "blocks_url": "https://satu.icei.ac.id/api/courses/v2/blocks/?course_id=course-v1%3AUPHx%2BSYS20044%2B2023_2",
+            "effort": null,
+            "end": "2025-06-26T00:00:00Z",
+            "enrollment_start": null,
+            "enrollment_end": null,
+            "id": "course-v1:UPHx+SYS20044+2023_2",
+            "media": {
+                "banner_image": {
+                    "uri": "/asset-v1:UPHx+SYS20044+2023_2+type@asset+block@images_course_image.jpg",
+                    "uri_absolute": "https://satu.icei.ac.id/asset-v1:UPHx+SYS20044+2023_2+type@asset+block@images_course_image.jpg"
+                },
+                "course_image": {
+                    "uri": "/asset-v1:UPHx+SYS20044+2023_2+type@asset+block@Banner-06.jpg"
+                },
+                "course_video": {
+                    "uri": null
+                },
+                "image": {
+                    "raw": "https://satu.icei.ac.id/asset-v1:UPHx+SYS20044+2023_2+type@asset+block@Banner-06.jpg",
+                    "small": "https://satu.icei.ac.id/asset-v1:UPHx+SYS20044+2023_2+type@asset+block@Banner-06.jpg",
+                    "large": "https://satu.icei.ac.id/asset-v1:UPHx+SYS20044+2023_2+type@asset+block@Banner-06.jpg"
+                }
+            },
+            "name": "Dasar Teknologi Web",
+            "number": "SYS20044",
+            "org": "UPHx",
+            "short_description": "Mata kuliah ini mempelajari konsep dasar teknologi-teknologi yang dapat digunakan di dalam mengembangkan sebuah website fungsional. Teknologi dasar pembuatan website yang akan dipelajari meliputi HTML, CSS, Javascript, dan teknologi terbaru lainnya. Selanjutnya, mahasiswa juga diharapkan untuk dapat mengembangkan sebuah website dengan baik dan benar, yaitu dengan mengaplikasikan teknologi-teknologi yang telah dipelajari baik di dalam kelas maupun lab praktikum.   ",
+            "start": "2023-01-01T00:00:00Z",
+            "start_display": "Jan. 1, 2023",
+            "start_type": "timestamp",
+            "pacing": "self",
+            "mobile_available": false,
+            "hidden": false,
+            "invitation_only": false,
+            "course_id": "course-v1:UPHx+SYS20044+2023_2"
+        },
+        {
+            "blocks_url": "https://satu.icei.ac.id/api/courses/v2/blocks/?course_id=course-v1%3AXuetangX%2BAME-CMUSMH%2B2022_T1",
+            "effort": null,
+            "end": "2024-01-11T23:59:00Z",
+            "enrollment_start": "2022-08-06T00:00:00Z",
+            "enrollment_end": "2024-01-11T23:59:00Z",
+            "id": "course-v1:XuetangX+AME-CMUSMH+2022_T1",
+            "media": {
+                "banner_image": {
+                    "uri": "/asset-v1:XuetangX+AME-CMUSMH+2022_T1+type@asset+block@images_course_image.jpg",
+                    "uri_absolute": "https://satu.icei.ac.id/asset-v1:XuetangX+AME-CMUSMH+2022_T1+type@asset+block@images_course_image.jpg"
+                },
+                "course_image": {
+                    "uri": "/asset-v1:XuetangX+AME-CMUSMH+2022_T1+type@asset+block@d586e1c333be3b504694312fef53ab01.png"
+                },
+                "course_video": {
+                    "uri": "http://www.youtube.com/watch?v=8ZPiHkPGiHw"
+                },
+                "image": {
+                    "raw": "https://satu.icei.ac.id/asset-v1:XuetangX+AME-CMUSMH+2022_T1+type@asset+block@d586e1c333be3b504694312fef53ab01.png",
+                    "small": "https://satu.icei.ac.id/asset-v1:XuetangX+AME-CMUSMH+2022_T1+type@asset+block@d586e1c333be3b504694312fef53ab01.png",
+                    "large": "https://satu.icei.ac.id/asset-v1:XuetangX+AME-CMUSMH+2022_T1+type@asset+block@d586e1c333be3b504694312fef53ab01.png"
+                }
+            },
+            "name": "Advanced Medical English",
+            "number": "AME-CMUSMH",
+            "org": "XuetangX",
+            "short_description": "Credit hours: 90\nThis course is designed for  medical students to improve their communicative skills in medical English.",
+            "start": "2022-08-06T00:00:00Z",
+            "start_display": "Aug. 6, 2022",
+            "start_type": "timestamp",
+            "pacing": "instructor",
+            "mobile_available": false,
+            "hidden": false,
+            "invitation_only": true,
+            "course_id": "course-v1:XuetangX+AME-CMUSMH+2022_T1"
+        },
+        {
+            "blocks_url": "https://satu.icei.ac.id/api/courses/v2/blocks/?course_id=course-v1%3AXuetangX%2BCa-BPSS%2B2022_T1",
+            "effort": "02:00",
+            "end": "2023-12-31T00:00:00Z",
+            "enrollment_start": "2022-08-01T00:00:00Z",
+            "enrollment_end": "2023-12-31T00:00:00Z",
+            "id": "course-v1:XuetangX+Ca-BPSS+2022_T1",
+            "media": {
+                "banner_image": {
+                    "uri": "/asset-v1:XuetangX+Ca-BPSS+2022_T1+type@asset+block@images_course_image.jpg",
+                    "uri_absolute": "https://satu.icei.ac.id/asset-v1:XuetangX+Ca-BPSS+2022_T1+type@asset+block@images_course_image.jpg"
+                },
+                "course_image": {
+                    "uri": "/asset-v1:XuetangX+Ca-BPSS+2022_T1+type@asset+block@Basic_Principles_of_Steel_Structure.png"
+                },
+                "course_video": {
+                    "uri": "http://www.youtube.com/watch?v=h8w2Sy05pzQ"
+                },
+                "image": {
+                    "raw": "https://satu.icei.ac.id/asset-v1:XuetangX+Ca-BPSS+2022_T1+type@asset+block@Basic_Principles_of_Steel_Structure.png",
+                    "small": "https://satu.icei.ac.id/asset-v1:XuetangX+Ca-BPSS+2022_T1+type@asset+block@Basic_Principles_of_Steel_Structure.png",
+                    "large": "https://satu.icei.ac.id/asset-v1:XuetangX+Ca-BPSS+2022_T1+type@asset+block@Basic_Principles_of_Steel_Structure.png"
+                }
+            },
+            "name": "Basic Principles of Steel Structures",
+            "number": "Ca-BPSS",
+            "org": "XuetangX",
+            "short_description": "'Basic Principles of Steel Structures' is a basic professional course in civil engineering. The steel structure is one of the basic structural forms of modern civil engineering and widely uses in building construction, bridges, tower masts, offshore platforms, gas tanks, and oil tanks. It focuses on establishing the basic concepts and explaining the basic principles of steel structures. The new version of GB50017 is used to build the bridge from mechanics principles to engineering design.",
+            "start": "2022-09-01T00:00:00Z",
+            "start_display": "Sept. 1, 2022",
+            "start_type": "timestamp",
+            "pacing": "instructor",
+            "mobile_available": false,
+            "hidden": false,
+            "invitation_only": true,
+            "course_id": "course-v1:XuetangX+Ca-BPSS+2022_T1"
+        },
+        {
+            "blocks_url": "https://satu.icei.ac.id/api/courses/v2/blocks/?course_id=course-v1%3AXuetangx%2BCAA-CC%2B2022_T1",
+            "effort": "01:30",
+            "end": "2024-12-15T00:30:00Z",
+            "enrollment_start": "2022-06-10T00:30:00Z",
+            "enrollment_end": "2024-10-01T00:30:00Z",
+            "id": "course-v1:Xuetangx+CAA-CC+2022_T1",
+            "media": {
+                "banner_image": {
+                    "uri": "/asset-v1:Xuetangx+CAA-CC+2022_T1+type@asset+block@images_course_image.jpg",
+                    "uri_absolute": "https://satu.icei.ac.id/asset-v1:Xuetangx+CAA-CC+2022_T1+type@asset+block@images_course_image.jpg"
+                },
+                "course_image": {
+                    "uri": "/asset-v1:Xuetangx+CAA-CC+2022_T1+type@asset+block@Chinese_Calligraphy.png"
+                },
+                "course_video": {
+                    "uri": "http://www.youtube.com/watch?v=tgBwJz0l8IQ"
+                },
+                "image": {
+                    "raw": "https://satu.icei.ac.id/asset-v1:Xuetangx+CAA-CC+2022_T1+type@asset+block@Chinese_Calligraphy.png",
+                    "small": "https://satu.icei.ac.id/asset-v1:Xuetangx+CAA-CC+2022_T1+type@asset+block@Chinese_Calligraphy.png",
+                    "large": "https://satu.icei.ac.id/asset-v1:Xuetangx+CAA-CC+2022_T1+type@asset+block@Chinese_Calligraphy.png"
+                }
+            },
+            "name": "Chinese Calligraphy",
+            "number": "CAA-CC",
+            "org": "Xuetangx",
+            "short_description": "This course focuses on the practice of the basic techniques of Chinese calligraphy and incorporates relevant content from the history of calligraphy, with a view to deepening students' understanding of the art of calligraphy and Chinese culture and building a scientific cognition from theory to practice.",
+            "start": "2022-06-15T00:30:00Z",
+            "start_display": "June 15, 2022",
+            "start_type": "timestamp",
+            "pacing": "instructor",
+            "mobile_available": false,
+            "hidden": false,
+            "invitation_only": true,
+            "course_id": "course-v1:Xuetangx+CAA-CC+2022_T1"
+        },
+        {
+            "blocks_url": "https://satu.icei.ac.id/api/courses/v2/blocks/?course_id=course-v1%3AXuetangX%2BCAA-OECLP%2B2022_T1",
+            "effort": "01:30",
+            "end": "2023-12-15T00:30:00Z",
+            "enrollment_start": "2022-06-10T00:30:00Z",
+            "enrollment_end": "2023-12-15T00:30:00Z",
+            "id": "course-v1:XuetangX+CAA-OECLP+2022_T1",
+            "media": {
+                "banner_image": {
+                    "uri": "/asset-v1:XuetangX+CAA-OECLP+2022_T1+type@asset+block@images_course_image.jpg",
+                    "uri_absolute": "https://satu.icei.ac.id/asset-v1:XuetangX+CAA-OECLP+2022_T1+type@asset+block@images_course_image.jpg"
+                },
+                "course_image": {
+                    "uri": "/asset-v1:XuetangX+CAA-OECLP+2022_T1+type@asset+block@observation_and_embodiment_in_Chinese_landscape_painting.png"
+                },
+                "course_video": {
+                    "uri": "http://www.youtube.com/watch?v=0jBYM_sg4Ls"
+                },
+                "image": {
+                    "raw": "https://satu.icei.ac.id/asset-v1:XuetangX+CAA-OECLP+2022_T1+type@asset+block@observation_and_embodiment_in_Chinese_landscape_painting.png",
+                    "small": "https://satu.icei.ac.id/asset-v1:XuetangX+CAA-OECLP+2022_T1+type@asset+block@observation_and_embodiment_in_Chinese_landscape_painting.png",
+                    "large": "https://satu.icei.ac.id/asset-v1:XuetangX+CAA-OECLP+2022_T1+type@asset+block@observation_and_embodiment_in_Chinese_landscape_painting.png"
+                }
+            },
+            "name": "Observation and Embodiment in Chinese Landscape Painting",
+            "number": "CAA-OECLP",
+            "org": "Xuetangx",
+            "short_description": "In the history of Chinese landscape painting, the Song and Yuan dynasties represent a golden age which saw the attainment of unprecedented artistic heights, and the coming forth of accomplished masters in great numbers. This course is based on the in-depth analysis and copy of four classic landscape paintings, namely Fan Kuan\u2019s \u201cTraveling amid Mountains and Gorges\u201d of the Northern Song dynasty, Xia Gui\u2019s \u201cPure and Remote View of Hills and Streams\u201d of the Southern Song dynasty, Huang Gongwang\u2019s \u201cDwelling in the Fuchun Mountains\u201d of the early Yuan dynasty, and Wang Mengs\u2019s \u201cDwelling in the Qingbian Mountains\u201d of the late Yuan dynasty, and thus touches upon the forming of Chinese landscape painting\u2019s distinct system of humanistic values, which lies rooted in the painter\u2019s attunement to nature and his constant observation of the universe, and further connects the spiritual essence and core thought that lie between the concepts of inheriting and imparting on one side, and new development on the other. The adage that we ought to \u201cresort to the brush-and-ink of the Yuan to move the mountains and gullies of the Song\u201d constitutes for us a source from which we may draw lessons from our ancestors, inherit the past and open up the present. The premise of investigating to the very root of things, consolidating the foundation and cultivating the spirit is to \u201clearn from nature while attaining inner realisation\u201d (\u201c\u5916\u5e08\u9020\u5316\uff0c\u4e2d\u5f97\u5fc3\u6e90\u201d). We thus treat plein-air painting as a cause and art creation as its final result. Learning landscape painting should lead to the transforming of traditional brush-and-ink philosophy through the experiencing of nature\u2019s visible phenomena, the broadening of the learner\u2019s academic vision and the fostering of his creative talent. The external world stimulates the mind, feelings are generated through the latter\u2019s contact with the landscape, and the final scene is created by the mind. \u201cObservation\u201d and \u201cembodiment\u201d do not hinder each other. As the mind penetrates everything both from within and without, and as it observes the world, all elements coordinate with one another, and both the object and the self come into being. The contemplation of the universe leads to the establishment of one's true intention. The mental image produced by the saying \u201cheaven and earth coexist with me, and all things are one with me\u201d depends on the painter\u2019s way of perceiving nature, since his vision thereof shall determine his methodology. In this does also reside the universal vision of landscape painting and the mind\u2019s unifying vitality. This equally constitutes the continuous sublimation of the brush-and-ink dimension, the humanistic realm, and of Life itself in the process of artistic creation.\n",
+            "start": "2022-06-15T00:30:00Z",
+            "start_display": "June 15, 2022",
+            "start_type": "timestamp",
+            "pacing": "instructor",
+            "mobile_available": false,
+            "hidden": false,
+            "invitation_only": true,
+            "course_id": "course-v1:XuetangX+CAA-OECLP+2022_T1"
+        },
+        {
+            "blocks_url": "https://satu.icei.ac.id/api/courses/v2/blocks/?course_id=course-v1%3AXuetangx%2BCEDCAD-XITC%2B2022_T1",
+            "effort": "02:00",
+            "end": "2025-12-31T00:00:00Z",
+            "enrollment_start": "2022-07-01T00:00:00Z",
+            "enrollment_end": "2025-11-01T00:00:00Z",
+            "id": "course-v1:Xuetangx+CEDCAD-XITC+2022_T1",
+            "media": {
+                "banner_image": {
+                    "uri": "/asset-v1:Xuetangx+CEDCAD-XITC+2022_T1+type@asset+block@images_course_image.jpg",
+                    "uri_absolute": "https://satu.icei.ac.id/asset-v1:Xuetangx+CEDCAD-XITC+2022_T1+type@asset+block@images_course_image.jpg"
+                },
+                "course_image": {
+                    "uri": "/asset-v1:Xuetangx+CEDCAD-XITC+2022_T1+type@asset+block@16407550013067.jpg"
+                },
+                "course_video": {
+                    "uri": null
+                },
+                "image": {
+                    "raw": "https://satu.icei.ac.id/asset-v1:Xuetangx+CEDCAD-XITC+2022_T1+type@asset+block@16407550013067.jpg",
+                    "small": "https://satu.icei.ac.id/asset-v1:Xuetangx+CEDCAD-XITC+2022_T1+type@asset+block@16407550013067.jpg",
+                    "large": "https://satu.icei.ac.id/asset-v1:Xuetangx+CEDCAD-XITC+2022_T1+type@asset+block@16407550013067.jpg"
+                }
+            },
+            "name": "Chemical Engineering Drawing and CAD",
+            "number": "CEDCAD-XITC",
+            "org": "Xuetangx",
+            "short_description": "Arranging the teaching process step by step according to the inherent order of production process and the law of vocational education on the basis of in-depth investigation of enterprises in chemical industry and career growth. Taking the zero distance contact workshop as the guiding ideology, designs the real work environment, constructs the practice to combine the three-dimensional teaching content, to train the student to become applied talents with high quality and high skills.",
+            "start": "2022-07-01T00:00:00Z",
+            "start_display": "July 1, 2022",
+            "start_type": "timestamp",
+            "pacing": "instructor",
+            "mobile_available": false,
+            "hidden": false,
+            "invitation_only": true,
+            "course_id": "course-v1:Xuetangx+CEDCAD-XITC+2022_T1"
+        },
+        {
+            "blocks_url": "https://satu.icei.ac.id/api/courses/v2/blocks/?course_id=course-v1%3AXuetangx%2BCVIE-AMT%2B2022_T1",
+            "effort": "02:00",
+            "end": "2023-12-31T23:30:00Z",
+            "enrollment_start": "2022-10-19T02:00:00Z",
+            "enrollment_end": "2023-12-30T23:30:00Z",
+            "id": "course-v1:Xuetangx+CVIE-AMT+2022_T1",
+            "media": {
+                "banner_image": {
+                    "uri": "/asset-v1:Xuetangx+CVIE-AMT+2022_T1+type@asset+block@images_course_image.jpg",
+                    "uri_absolute": "https://satu.icei.ac.id/asset-v1:Xuetangx+CVIE-AMT+2022_T1+type@asset+block@images_course_image.jpg"
+                },
+                "course_image": {
+                    "uri": "/asset-v1:Xuetangx+CVIE-AMT+2022_T1+type@asset+block@BIM.png"
+                },
+                "course_video": {
+                    "uri": null
+                },
+                "image": {
+                    "raw": "https://satu.icei.ac.id/asset-v1:Xuetangx+CVIE-AMT+2022_T1+type@asset+block@BIM.png",
+                    "small": "https://satu.icei.ac.id/asset-v1:Xuetangx+CVIE-AMT+2022_T1+type@asset+block@BIM.png",
+                    "large": "https://satu.icei.ac.id/asset-v1:Xuetangx+CVIE-AMT+2022_T1+type@asset+block@BIM.png"
+                }
+            },
+            "name": "Application of BIM Technology",
+            "number": "CVIE-AMT",
+            "org": "Xuetangx",
+            "short_description": "This course is produced by Chongqing  Vocational Institute of engineering. BIM is a new three-dimensional architectural drawing software, which improves the defects caused by the previous plane drawing, and three-dimensional digital technology can quickly improve the quality and efficiency of all details of construction projects. Through the study of this course, students can understand the concept, application scope, and development direction of BIM, master one of the BIM software \u2014 Revit software.",
+            "start": "2022-10-19T03:30:00Z",
+            "start_display": "Oct. 19, 2022",
+            "start_type": "timestamp",
+            "pacing": "self",
+            "mobile_available": false,
+            "hidden": false,
+            "invitation_only": true,
+            "course_id": "course-v1:Xuetangx+CVIE-AMT+2022_T1"
+        },
+        {
+            "blocks_url": "https://satu.icei.ac.id/api/courses/v2/blocks/?course_id=course-v1%3AXuetangX%2BJAU-AICAC%2B2022_T1",
+            "effort": "01:30",
+            "end": "2023-12-31T23:59:00Z",
+            "enrollment_start": "2022-07-01T00:00:00Z",
+            "enrollment_end": "2023-12-10T23:59:00Z",
+            "id": "course-v1:XuetangX+JAU-AICAC+2022_T1",
+            "media": {
+                "banner_image": {
+                    "uri": "/asset-v1:XuetangX+JAU-AICAC+2022_T1+type@asset+block@images_course_image.jpg",
+                    "uri_absolute": "https://satu.icei.ac.id/asset-v1:XuetangX+JAU-AICAC+2022_T1+type@asset+block@images_course_image.jpg"
+                },
+                "course_image": {
+                    "uri": "/asset-v1:XuetangX+JAU-AICAC+2022_T1+type@asset+block@An_Insight_into_Chinese_Agricultural_Civilization_\u6c5f\u897f\u519c\u4e1a\u5927\u5b66_3x.png"
+                },
+                "course_video": {
+                    "uri": "http://www.youtube.com/watch?v=MFwqTbxqOWA"
+                },
+                "image": {
+                    "raw": "https://satu.icei.ac.id/asset-v1:XuetangX+JAU-AICAC+2022_T1+type@asset+block@An_Insight_into_Chinese_Agricultural_Civilization_%E6%B1%9F%E8%A5%BF%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A6_3x.png",
+                    "small": "https://satu.icei.ac.id/asset-v1:XuetangX+JAU-AICAC+2022_T1+type@asset+block@An_Insight_into_Chinese_Agricultural_Civilization_%E6%B1%9F%E8%A5%BF%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A6_3x.png",
+                    "large": "https://satu.icei.ac.id/asset-v1:XuetangX+JAU-AICAC+2022_T1+type@asset+block@An_Insight_into_Chinese_Agricultural_Civilization_%E6%B1%9F%E8%A5%BF%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A6_3x.png"
+                }
+            },
+            "name": "An Insight into Chinese Agricultural Civilization",
+            "number": "JAU-AICAC",
+            "org": "XuetangX",
+            "short_description": "With a history of over 5,000 years, China has always been proud of her agricultural civilization. Western scientists like Joseph Needham and Franklin H. King thought highly of and promoted globally ancient China's production methods and agricultural technologies. In this course we discuss the following questions: When and where did agriculture originate? What tools did the ancient farmers use to plant rice and mulberry trees? Which water engineering projects used a thousand years ago are still in use today? What are the 24 solar terms about the daily lives, rituals and festivities in ancient China? Who were the pioneers of the agricultural exchanges between the East and the West along the ancient Silk Road? If you are interested in the answers along with diving into the marvelous achievements of agriculture in ancient China, this nationally-accredited online course An Insight into Chinese Agricultural Civilization is the best choice for you.",
+            "start": "2022-07-01T00:00:00Z",
+            "start_display": "July 1, 2022",
+            "start_type": "timestamp",
+            "pacing": "instructor",
+            "mobile_available": false,
+            "hidden": false,
+            "invitation_only": true,
+            "course_id": "course-v1:XuetangX+JAU-AICAC+2022_T1"
+        },
+        {
+            "blocks_url": "https://satu.icei.ac.id/api/courses/v2/blocks/?course_id=course-v1%3AXuetangX%2BNC-AAC%2B2022_T1",
+            "effort": "120min",
+            "end": "2023-12-31T00:00:00Z",
+            "enrollment_start": "2022-06-15T00:00:00Z",
+            "enrollment_end": "2023-12-31T00:00:00Z",
+            "id": "course-v1:XuetangX+NC-AAC+2022_T1",
+            "media": {
+                "banner_image": {
+                    "uri": "/asset-v1:XuetangX+NC-AAC+2022_T1+type@asset+block@images_course_image.jpg",
+                    "uri_absolute": "https://satu.icei.ac.id/asset-v1:XuetangX+NC-AAC+2022_T1+type@asset+block@images_course_image.jpg"
+                },
+                "course_image": {
+                    "uri": "/asset-v1:XuetangX+NC-AAC+2022_T1+type@asset+block@Aesthetic_Appreciation_and_Creation__\u5357\u660c\u5927\u5b66.jpg"
+                },
+                "course_video": {
+                    "uri": "http://www.youtube.com/watch?v=UlJWL4d-SWE"
+                },
+                "image": {
+                    "raw": "https://satu.icei.ac.id/asset-v1:XuetangX+NC-AAC+2022_T1+type@asset+block@Aesthetic_Appreciation_and_Creation__%E5%8D%97%E6%98%8C%E5%A4%A7%E5%AD%A6.jpg",
+                    "small": "https://satu.icei.ac.id/asset-v1:XuetangX+NC-AAC+2022_T1+type@asset+block@Aesthetic_Appreciation_and_Creation__%E5%8D%97%E6%98%8C%E5%A4%A7%E5%AD%A6.jpg",
+                    "large": "https://satu.icei.ac.id/asset-v1:XuetangX+NC-AAC+2022_T1+type@asset+block@Aesthetic_Appreciation_and_Creation__%E5%8D%97%E6%98%8C%E5%A4%A7%E5%AD%A6.jpg"
+                }
+            },
+            "name": "Aesthetic Appreciation and Creation",
+            "number": "NC-AAC",
+            "org": "XuetangX",
+            "short_description": "The beauty of each beauty The beauty of beauty is the same as the world",
+            "start": "2022-06-15T00:00:00Z",
+            "start_display": "June 15, 2022",
+            "start_type": "timestamp",
+            "pacing": "instructor",
+            "mobile_available": false,
+            "hidden": false,
+            "invitation_only": true,
+            "course_id": "course-v1:XuetangX+NC-AAC+2022_T1"
+        },
+        {
+            "blocks_url": "https://satu.icei.ac.id/api/courses/v2/blocks/?course_id=course-v1%3AXuetangx%2BNC-CC%2B2021_T1",
+            "effort": "120min",
+            "end": "2023-12-31T00:00:00Z",
+            "enrollment_start": "2022-06-15T00:00:00Z",
+            "enrollment_end": "2023-12-31T00:00:00Z",
+            "id": "course-v1:Xuetangx+NC-CC+2021_T1",
+            "media": {
+                "banner_image": {
+                    "uri": "/asset-v1:Xuetangx+NC-CC+2021_T1+type@asset+block@images_course_image.jpg",
+                    "uri_absolute": "https://satu.icei.ac.id/asset-v1:Xuetangx+NC-CC+2021_T1+type@asset+block@images_course_image.jpg"
+                },
+                "course_image": {
+                    "uri": "/asset-v1:Xuetangx+NC-CC+2021_T1+type@asset+block@Chinese_Ceramics_3x.png"
+                },
+                "course_video": {
+                    "uri": "http://www.youtube.com/watch?v=fADDoDI8kzA"
+                },
+                "image": {
+                    "raw": "https://satu.icei.ac.id/asset-v1:Xuetangx+NC-CC+2021_T1+type@asset+block@Chinese_Ceramics_3x.png",
+                    "small": "https://satu.icei.ac.id/asset-v1:Xuetangx+NC-CC+2021_T1+type@asset+block@Chinese_Ceramics_3x.png",
+                    "large": "https://satu.icei.ac.id/asset-v1:Xuetangx+NC-CC+2021_T1+type@asset+block@Chinese_Ceramics_3x.png"
+                }
+            },
+            "name": "Chinese Ceramics",
+            "number": "NC-CC",
+            "org": "Xuetangx",
+            "short_description": "Blue-and-white porcelain showing composure and elegance, jade-like Jun porcelain and White porcelain being exquisite and gleaming, glaze colors in abundance and delicacy, each piece represents a unique beauty, which seems like an attractive woman whispering an ancient myth. \r\nNow, we\u2019ll tell the legends of china,\u201cChinese Ceramics\u201d\uff0care you ready?",
+            "start": "2022-06-15T00:00:00Z",
+            "start_display": "null",
+            "start_type": "string",
+            "pacing": "instructor",
+            "mobile_available": true,
+            "hidden": false,
+            "invitation_only": true,
+            "course_id": "course-v1:Xuetangx+NC-CC+2021_T1"
+        },
+        {
+            "blocks_url": "https://satu.icei.ac.id/api/courses/v2/blocks/?course_id=course-v1%3AXuetangx%2BNU-IAI%2B2022_T1",
+            "effort": "04:00",
+            "end": "2023-12-31T23:30:00Z",
+            "enrollment_start": "2022-06-20T00:00:00Z",
+            "enrollment_end": "2023-12-31T23:00:00Z",
+            "id": "course-v1:Xuetangx+NU-IAI+2022_T1",
+            "media": {
+                "banner_image": {
+                    "uri": "/asset-v1:Xuetangx+NU-IAI+2022_T1+type@asset+block@images_course_image.jpg",
+                    "uri_absolute": "https://satu.icei.ac.id/asset-v1:Xuetangx+NU-IAI+2022_T1+type@asset+block@images_course_image.jpg"
+                },
+                "course_image": {
+                    "uri": "/asset-v1:Xuetangx+NU-IAI+2022_T1+type@asset+block@Introduction_to_Artificial_Intelligence_\u5357\u5f00\u5927\u5b66.png"
+                },
+                "course_video": {
+                    "uri": null
+                },
+                "image": {
+                    "raw": "https://satu.icei.ac.id/asset-v1:Xuetangx+NU-IAI+2022_T1+type@asset+block@Introduction_to_Artificial_Intelligence_%E5%8D%97%E5%BC%80%E5%A4%A7%E5%AD%A6.png",
+                    "small": "https://satu.icei.ac.id/asset-v1:Xuetangx+NU-IAI+2022_T1+type@asset+block@Introduction_to_Artificial_Intelligence_%E5%8D%97%E5%BC%80%E5%A4%A7%E5%AD%A6.png",
+                    "large": "https://satu.icei.ac.id/asset-v1:Xuetangx+NU-IAI+2022_T1+type@asset+block@Introduction_to_Artificial_Intelligence_%E5%8D%97%E5%BC%80%E5%A4%A7%E5%AD%A6.png"
+                }
+            },
+            "name": "Introduction to Artificial Intelligence",
+            "number": "NU-IAI",
+            "org": "Xuetangx",
+            "short_description": "        The importance of Artificial Intelligence and Machine Learning has been increasing as a growing number of companies are using these technologies to improve their products and services, evaluate their business models, and enhance their decision-making process. If you are interested in AI, if you want to understand AI, and if you want to know how to use AI algorithms to solve problems, join us!",
+            "start": "2022-07-01T00:00:00Z",
+            "start_display": "Now",
+            "start_type": "string",
+            "pacing": "self",
+            "mobile_available": false,
+            "hidden": false,
+            "invitation_only": true,
+            "course_id": "course-v1:Xuetangx+NU-IAI+2022_T1"
+        },
+        {
+            "blocks_url": "https://satu.icei.ac.id/api/courses/v2/blocks/?course_id=course-v1%3AXuetangx%2BNU-SE%2B2022_T",
+            "effort": "4",
+            "end": "2023-12-31T23:30:00Z",
+            "enrollment_start": "2022-05-20T00:00:00Z",
+            "enrollment_end": "2023-12-31T23:30:00Z",
+            "id": "course-v1:Xuetangx+NU-SE+2022_T",
+            "media": {
+                "banner_image": {
+                    "uri": "/asset-v1:Xuetangx+NU-SE+2022_T+type@asset+block@images_course_image.jpg",
+                    "uri_absolute": "https://satu.icei.ac.id/asset-v1:Xuetangx+NU-SE+2022_T+type@asset+block@images_course_image.jpg"
+                },
+                "course_image": {
+                    "uri": "/asset-v1:Xuetangx+NU-SE+2022_T+type@asset+block@Software_Engineering.png"
+                },
+                "course_video": {
+                    "uri": null
+                },
+                "image": {
+                    "raw": "https://satu.icei.ac.id/asset-v1:Xuetangx+NU-SE+2022_T+type@asset+block@Software_Engineering.png",
+                    "small": "https://satu.icei.ac.id/asset-v1:Xuetangx+NU-SE+2022_T+type@asset+block@Software_Engineering.png",
+                    "large": "https://satu.icei.ac.id/asset-v1:Xuetangx+NU-SE+2022_T+type@asset+block@Software_Engineering.png"
+                }
+            },
+            "name": "Software Engineering",
+            "number": "NU-SE",
+            "org": "Xuetangx",
+            "short_description": "Software Engineering (SE) is the essential course of majors Computer/ Software/ Electronic Science and Technique. The objectives are to have students to memorize the basic concept of object-oriented software engineering, to understand the SE Body of Knowledge and the SE standards, and to recognize SE\u2019s effect to the real world and the society. After studying, students should understand the idea and theories of SE and software project management, and the tasks of each phase of the software lifecycle. The students are supposed to be able to use the theory and methods of object-oriented software engineering to determine the requirements and to analyze, to design and to implement the target software system. And the students should also be able to evaluate and improve the software system. The course will lay the foundation for the following SE-series courses.",
+            "start": "2022-06-06T00:00:00Z",
+            "start_display": "June 6, 2022",
+            "start_type": "timestamp",
+            "pacing": "instructor",
+            "mobile_available": false,
+            "hidden": false,
+            "invitation_only": true,
+            "course_id": "course-v1:Xuetangx+NU-SE+2022_T"
+        },
+        {
+            "blocks_url": "https://satu.icei.ac.id/api/courses/v2/blocks/?course_id=course-v1%3AXuetangx%2BSCUT-CI%2B2022_T1",
+            "effort": "5 hours",
+            "end": "2023-12-31T00:00:00Z",
+            "enrollment_start": "2022-05-19T00:00:00Z",
+            "enrollment_end": "2023-12-20T00:00:00Z",
+            "id": "course-v1:Xuetangx+SCUT-CI+2022_T1",
+            "media": {
+                "banner_image": {
+                    "uri": "/asset-v1:Xuetangx+SCUT-CI+2022_T1+type@asset+block@images_course_image.jpg",
+                    "uri_absolute": "https://satu.icei.ac.id/asset-v1:Xuetangx+SCUT-CI+2022_T1+type@asset+block@images_course_image.jpg"
+                },
+                "course_image": {
+                    "uri": "/asset-v1:Xuetangx+SCUT-CI+2022_T1+type@asset+block@Calculus___\u2160_.png"
+                },
+                "course_video": {
+                    "uri": "http://www.youtube.com/watch?v=x7udfR_MMW8"
+                },
+                "image": {
+                    "raw": "https://satu.icei.ac.id/asset-v1:Xuetangx+SCUT-CI+2022_T1+type@asset+block@Calculus___%E2%85%A0_.png",
+                    "small": "https://satu.icei.ac.id/asset-v1:Xuetangx+SCUT-CI+2022_T1+type@asset+block@Calculus___%E2%85%A0_.png",
+                    "large": "https://satu.icei.ac.id/asset-v1:Xuetangx+SCUT-CI+2022_T1+type@asset+block@Calculus___%E2%85%A0_.png"
+                }
+            },
+            "name": "Calculus I",
+            "number": "SCUT-CI",
+            "org": "Xuetangx",
+            "short_description": "Calculus is the branch of mathematics that studies differentiation, integration and related concepts and applications in advanced mathematics. It is a basic subject of mathematics. It is an important basic theory course in universities of science and engineering. It has promoted the development of other disciplines and human civilization and science and technology, and its function is of great importance. Calculus (I) is a compulsory course for undergraduates. The basic requirements of the course include functions, limits, continuity of function, derivatives and their applications, integrals and their applications, the limits of indefinite forms and generalized integrals. The limit is the basic concept of calculus. Differential and integral are the limits of particular forms of a particular process.\nThrough the teaching of English, students learn to acquire mathematical knowledge in English while mastering and using English in the process of learning mathematics to achieve a win-win goal. Therefore, we can cultivate international talents with international competitiveness and meet the needs of the state and society.",
+            "start": "2022-06-01T00:00:00Z",
+            "start_display": "June 1, 2022",
+            "start_type": "timestamp",
+            "pacing": "instructor",
+            "mobile_available": false,
+            "hidden": false,
+            "invitation_only": true,
+            "course_id": "course-v1:Xuetangx+SCUT-CI+2022_T1"
+        },
+        {
+            "blocks_url": "https://satu.icei.ac.id/api/courses/v2/blocks/?course_id=course-v1%3AXuetangX%2BSD-BFMMB%2B2022_T1",
+            "effort": "2h",
+            "end": "2023-12-26T18:00:00Z",
+            "enrollment_start": "2022-06-24T09:00:00Z",
+            "enrollment_end": "2023-12-08T18:00:00Z",
+            "id": "course-v1:XuetangX+SD-BFMMB+2022_T1",
+            "media": {
+                "banner_image": {
+                    "uri": "/asset-v1:XuetangX+SD-BFMMB+2022_T1+type@asset+block@images_course_image.jpg",
+                    "uri_absolute": "https://satu.icei.ac.id/asset-v1:XuetangX+SD-BFMMB+2022_T1+type@asset+block@images_course_image.jpg"
+                },
+                "course_image": {
+                    "uri": "/asset-v1:XuetangX+SD-BFMMB+2022_T1+type@asset+block@Basis_and_Frontier_Development_in_Medical_Molecular_Biology_3x.png"
+                },
+                "course_video": {
+                    "uri": "http://www.youtube.com/watch?v=1flOvKMjmic"
+                },
+                "image": {
+                    "raw": "https://satu.icei.ac.id/asset-v1:XuetangX+SD-BFMMB+2022_T1+type@asset+block@Basis_and_Frontier_Development_in_Medical_Molecular_Biology_3x.png",
+                    "small": "https://satu.icei.ac.id/asset-v1:XuetangX+SD-BFMMB+2022_T1+type@asset+block@Basis_and_Frontier_Development_in_Medical_Molecular_Biology_3x.png",
+                    "large": "https://satu.icei.ac.id/asset-v1:XuetangX+SD-BFMMB+2022_T1+type@asset+block@Basis_and_Frontier_Development_in_Medical_Molecular_Biology_3x.png"
+                }
+            },
+            "name": "Basis and Frontier in Medical Molecular Biology",
+            "number": "SD-BFMMB",
+            "org": "XuetangX",
+            "short_description": "Epigenetics, cell cycle and cell death all play important roles in the tumorigenesis and development. This course organically integrates the related basic concepts, regulatory mechanisms, new application in tumor diagnosis and treatment, and correlated research methods, which can provide theoretical support for research in related fields of medicine.",
+            "start": "2022-07-01T09:00:00Z",
+            "start_display": "July 1, 2022",
+            "start_type": "timestamp",
+            "pacing": "self",
+            "mobile_available": false,
+            "hidden": false,
+            "invitation_only": true,
+            "course_id": "course-v1:XuetangX+SD-BFMMB+2022_T1"
+        },
+        {
+            "blocks_url": "https://satu.icei.ac.id/api/courses/v2/blocks/?course_id=course-v1%3AXuetangx%2BSP-HMFDF%2B2022_T",
+            "effort": "02:00",
+            "end": "2023-12-31T23:30:00Z",
+            "enrollment_start": "2022-06-03T00:00:00Z",
+            "enrollment_end": "2023-12-18T23:30:00Z",
+            "id": "course-v1:Xuetangx+SP-HMFDF+2022_T",
+            "media": {
+                "banner_image": {
+                    "uri": "/asset-v1:Xuetangx+SP-HMFDF+2022_T+type@asset+block@images_course_image.jpg",
+                    "uri_absolute": "https://satu.icei.ac.id/asset-v1:Xuetangx+SP-HMFDF+2022_T+type@asset+block@images_course_image.jpg"
+                },
+                "course_image": {
+                    "uri": "/asset-v1:Xuetangx+SP-HMFDF+2022_T+type@asset+block@HTML5_Mobile_Front-end_Development__\u6df1\u5733\u804c\u4e1a\u6280\u672f\u5b66\u9662.jpg"
+                },
+                "course_video": {
+                    "uri": null
+                },
+                "image": {
+                    "raw": "https://satu.icei.ac.id/asset-v1:Xuetangx+SP-HMFDF+2022_T+type@asset+block@HTML5_Mobile_Front-end_Development__%E6%B7%B1%E5%9C%B3%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2.jpg",
+                    "small": "https://satu.icei.ac.id/asset-v1:Xuetangx+SP-HMFDF+2022_T+type@asset+block@HTML5_Mobile_Front-end_Development__%E6%B7%B1%E5%9C%B3%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2.jpg",
+                    "large": "https://satu.icei.ac.id/asset-v1:Xuetangx+SP-HMFDF+2022_T+type@asset+block@HTML5_Mobile_Front-end_Development__%E6%B7%B1%E5%9C%B3%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E9%99%A2.jpg"
+                }
+            },
+            "name": "HTML5 Mobile Front-end Development Foundation",
+            "number": "SP-HMFDF",
+            "org": "Xuetangx",
+            "short_description": "Take the first step towards a Web front-end development engineer.",
+            "start": "2022-06-21T00:00:00Z",
+            "start_display": "June 21, 2022",
+            "start_type": "timestamp",
+            "pacing": "instructor",
+            "mobile_available": false,
+            "hidden": false,
+            "invitation_only": true,
+            "course_id": "course-v1:Xuetangx+SP-HMFDF+2022_T"
+        },
+        {
+            "blocks_url": "https://satu.icei.ac.id/api/courses/v2/blocks/?course_id=course-v1%3AXuetangx%2BST-CH%2B2022_T1",
+            "effort": null,
+            "end": "2025-12-31T00:00:00Z",
+            "enrollment_start": "2022-06-15T00:00:00Z",
+            "enrollment_end": "2025-12-31T00:00:00Z",
+            "id": "course-v1:Xuetangx+ST-CH+2022_T1",
+            "media": {
+                "banner_image": {
+                    "uri": "/asset-v1:Xuetangx+ST-CH+2022_T1+type@asset+block@images_course_image.jpg",
+                    "uri_absolute": "https://satu.icei.ac.id/asset-v1:Xuetangx+ST-CH+2022_T1+type@asset+block@images_course_image.jpg"
+                },
+                "course_image": {
+                    "uri": "/asset-v1:Xuetangx+ST-CH+2022_T1+type@asset+block@Clinical_Histology_3x.png"
+                },
+                "course_video": {
+                    "uri": "http://www.youtube.com/watch?v=Kl0-yjybi_k"
+                },
+                "image": {
+                    "raw": "https://satu.icei.ac.id/asset-v1:Xuetangx+ST-CH+2022_T1+type@asset+block@Clinical_Histology_3x.png",
+                    "small": "https://satu.icei.ac.id/asset-v1:Xuetangx+ST-CH+2022_T1+type@asset+block@Clinical_Histology_3x.png",
+                    "large": "https://satu.icei.ac.id/asset-v1:Xuetangx+ST-CH+2022_T1+type@asset+block@Clinical_Histology_3x.png"
+                }
+            },
+            "name": "Clinical Histology",
+            "number": "ST-CH",
+            "org": "Xuetangx",
+            "short_description": "Clinical Histology aims to provide a compact, thorough course of clinical histology for learners in the health care professions and related disciplines. It helps learners to integrate basic medical knowledge with clinical medicine by presenting an appropriate amount of clinically relevant histological materials in an interesting form. This course also adopts case-based questions and related clinical cases for formative assessment. ",
+            "start": "2022-06-15T00:00:00Z",
+            "start_display": "June 15, 2022",
+            "start_type": "timestamp",
+            "pacing": "instructor",
+            "mobile_available": false,
+            "hidden": false,
+            "invitation_only": true,
+            "course_id": "course-v1:Xuetangx+ST-CH+2022_T1"
+        },
+        {
+            "blocks_url": "https://satu.icei.ac.id/api/courses/v2/blocks/?course_id=course-v1%3AXuetangX%2BSU-AMI%2B2022_T1",
+            "effort": "2 hours /week",
+            "end": "2023-12-31T23:30:00Z",
+            "enrollment_start": "2022-07-01T08:00:00Z",
+            "enrollment_end": "2023-12-31T23:30:00Z",
+            "id": "course-v1:XuetangX+SU-AMI+2022_T1",
+            "media": {
+                "banner_image": {
+                    "uri": "/asset-v1:XuetangX+SU-AMI+2022_T1+type@asset+block@images_course_image.jpg",
+                    "uri_absolute": "https://satu.icei.ac.id/asset-v1:XuetangX+SU-AMI+2022_T1+type@asset+block@images_course_image.jpg"
+                },
+                "course_image": {
+                    "uri": "/asset-v1:XuetangX+SU-AMI+2022_T1+type@asset+block@Advancing_Molecular_Imaging_3x.png"
+                },
+                "course_video": {
+                    "uri": null
+                },
+                "image": {
+                    "raw": "https://satu.icei.ac.id/asset-v1:XuetangX+SU-AMI+2022_T1+type@asset+block@Advancing_Molecular_Imaging_3x.png",
+                    "small": "https://satu.icei.ac.id/asset-v1:XuetangX+SU-AMI+2022_T1+type@asset+block@Advancing_Molecular_Imaging_3x.png",
+                    "large": "https://satu.icei.ac.id/asset-v1:XuetangX+SU-AMI+2022_T1+type@asset+block@Advancing_Molecular_Imaging_3x.png"
+                }
+            },
+            "name": "Advancing Molecular Imaging",
+            "number": "SU-AMI",
+            "org": "XuetangX",
+            "short_description": "Do you know what molecular imaging means? Do you want to see changes in the molecular level of the body in vivo? Do you want to dynamically track the trend of a certain molecule in vivo? Come on, choose our \"Advancing molecular imaging\" to take you into a new field. Understand our body health, understand the causes of diseases, make accurate and intelligent molecular level diagnosis, and target specific molecules for treatment.",
+            "start": "2022-09-05T08:00:00Z",
+            "start_display": "Sept. 5, 2022",
+            "start_type": "timestamp",
+            "pacing": "instructor",
+            "mobile_available": false,
+            "hidden": false,
+            "invitation_only": true,
+            "course_id": "course-v1:XuetangX+SU-AMI+2022_T1"
+        },
+        {
+            "blocks_url": "https://satu.icei.ac.id/api/courses/v2/blocks/?course_id=course-v1%3AXuetangx%2BSU-HRTRM%2B2022_T1",
+            "effort": null,
+            "end": "2023-12-31T00:00:00Z",
+            "enrollment_start": "2022-09-01T00:00:00Z",
+            "enrollment_end": "2023-12-31T00:00:00Z",
+            "id": "course-v1:Xuetangx+SU-HRTRM+2022_T1",
+            "media": {
+                "banner_image": {
+                    "uri": "/asset-v1:Xuetangx+SU-HRTRM+2022_T1+type@asset+block@images_course_image.jpg",
+                    "uri_absolute": "https://satu.icei.ac.id/asset-v1:Xuetangx+SU-HRTRM+2022_T1+type@asset+block@images_course_image.jpg"
+                },
+                "course_image": {
+                    "uri": "/asset-v1:Xuetangx+SU-HRTRM+2022_T1+type@asset+block@Hot_Research_Topics_in_Reproductive_Medicine_3x.png"
+                },
+                "course_video": {
+                    "uri": null
+                },
+                "image": {
+                    "raw": "https://satu.icei.ac.id/asset-v1:Xuetangx+SU-HRTRM+2022_T1+type@asset+block@Hot_Research_Topics_in_Reproductive_Medicine_3x.png",
+                    "small": "https://satu.icei.ac.id/asset-v1:Xuetangx+SU-HRTRM+2022_T1+type@asset+block@Hot_Research_Topics_in_Reproductive_Medicine_3x.png",
+                    "large": "https://satu.icei.ac.id/asset-v1:Xuetangx+SU-HRTRM+2022_T1+type@asset+block@Hot_Research_Topics_in_Reproductive_Medicine_3x.png"
+                }
+            },
+            "name": "Hot Research Topics in Reproductive Medicine",
+            "number": "SU-HRTRM",
+            "org": "Xuetangx",
+            "short_description": "The main content of the curriculum includes common methods, types of studies, and scientific thinking related to basic and clinical research in reproductive medicine, particularly including embryo technology,, assisted reproductive technology, trophoblast technology, major disease research advances in reproductive medicine, introduction of main clinical research methods, training in scientific thinking, model selection for reproductive medicine research, reproductive big data mining skills, and so on.",
+            "start": "2022-09-01T00:00:00Z",
+            "start_display": "Sept. 1, 2022",
+            "start_type": "timestamp",
+            "pacing": "instructor",
+            "mobile_available": false,
+            "hidden": false,
+            "invitation_only": true,
+            "course_id": "course-v1:Xuetangx+SU-HRTRM+2022_T1"
+        },
+        {
+            "blocks_url": "https://satu.icei.ac.id/api/courses/v2/blocks/?course_id=course-v1%3AXuetangx%2BTH-CES%2B2022_T1",
+            "effort": null,
+            "end": "2025-12-31T00:00:00Z",
+            "enrollment_start": "2022-07-01T00:00:00Z",
+            "enrollment_end": "2025-12-31T00:00:00Z",
+            "id": "course-v1:Xuetangx+TH-CES+2022_T1",
+            "media": {
+                "banner_image": {
+                    "uri": "/asset-v1:Xuetangx+TH-CES+2022_T1+type@asset+block@images_course_image.jpg",
+                    "uri_absolute": "https://satu.icei.ac.id/asset-v1:Xuetangx+TH-CES+2022_T1+type@asset+block@images_course_image.jpg"
+                },
+                "course_image": {
+                    "uri": "/asset-v1:Xuetangx+TH-CES+2022_T1+type@asset+block@Conversational_English_Skills.png"
+                },
+                "course_video": {
+                    "uri": "http://www.youtube.com/watch?v=2G-3sckcZNE"
+                },
+                "image": {
+                    "raw": "https://satu.icei.ac.id/asset-v1:Xuetangx+TH-CES+2022_T1+type@asset+block@Conversational_English_Skills.png",
+                    "small": "https://satu.icei.ac.id/asset-v1:Xuetangx+TH-CES+2022_T1+type@asset+block@Conversational_English_Skills.png",
+                    "large": "https://satu.icei.ac.id/asset-v1:Xuetangx+TH-CES+2022_T1+type@asset+block@Conversational_English_Skills.png"
+                }
+            },
+            "name": "Conversational English Skills | \u751f\u6d3b\u82f1\u8bed\u542c\u8bf4",
+            "number": "TH-CES",
+            "org": "Xuetangx",
+            "short_description": "Do you want to use English to communicate with friends from all over the world? Let's take you on a different English learning trip! ",
+            "start": "2022-07-01T00:00:00Z",
+            "start_display": "July 1, 2022",
+            "start_type": "timestamp",
+            "pacing": "self",
+            "mobile_available": true,
+            "hidden": false,
+            "invitation_only": true,
+            "course_id": "course-v1:Xuetangx+TH-CES+2022_T1"
+        },
+        {
+            "blocks_url": "https://satu.icei.ac.id/api/courses/v2/blocks/?course_id=course-v1%3AXuetangx%2BTH-CG%2B2022_T1",
+            "effort": "360",
+            "end": "2023-12-31T04:00:00Z",
+            "enrollment_start": "2022-02-20T00:00:00Z",
+            "enrollment_end": "2023-12-31T00:00:00Z",
+            "id": "course-v1:Xuetangx+TH-CG+2022_T1",
+            "media": {
+                "banner_image": {
+                    "uri": "/asset-v1:Xuetangx+TH-CG+2022_T1+type@asset+block@images_course_image.jpg",
+                    "uri_absolute": "https://satu.icei.ac.id/asset-v1:Xuetangx+TH-CG+2022_T1+type@asset+block@images_course_image.jpg"
+                },
+                "course_image": {
+                    "uri": "/asset-v1:Xuetangx+TH-CG+2022_T1+type@asset+block@Computational_Geometry_3x.png"
+                },
+                "course_video": {
+                    "uri": "-"
+                },
+                "image": {
+                    "raw": "https://satu.icei.ac.id/asset-v1:Xuetangx+TH-CG+2022_T1+type@asset+block@Computational_Geometry_3x.png",
+                    "small": "https://satu.icei.ac.id/asset-v1:Xuetangx+TH-CG+2022_T1+type@asset+block@Computational_Geometry_3x.png",
+                    "large": "https://satu.icei.ac.id/asset-v1:Xuetangx+TH-CG+2022_T1+type@asset+block@Computational_Geometry_3x.png"
+                }
+            },
+            "name": "Computational Geometry",
+            "number": "TH-CG",
+            "org": "Xuetangx",
+            "short_description": "In this introductory computer science course, explore geometry, develop geometric thinking, and learn geometric algorithms.",
+            "start": "2022-02-20T04:00:00Z",
+            "start_display": "-",
+            "start_type": "string",
+            "pacing": "self",
+            "mobile_available": true,
+            "hidden": false,
+            "invitation_only": true,
+            "course_id": "course-v1:Xuetangx+TH-CG+2022_T1"
+        }
+    ],
+    "pagination": {
+        "next": null,
+        "previous": null,
+        "count": 24,
+        "num_pages": 1
+    }
+}
